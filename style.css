@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(223, 239, 245);
+}
+.jumbotron {
+    background-image: url("images/scienceBeakers.jpg");
+    background-size: cover;
+    text-align: center;
+    color: #f7f7f7;
+}
