@@ -1,10 +1,16 @@
-# plotly_deployment
+# Biodiversity Dashboard
 
 ## Overview
 Using bacterial data from belly button samples of volunteers, this project helps to visualize the belly button data by id of volunteer. The website will give users the option to select their id, and then see information regarding the bacteria present in their samples.
 
 ## Resources
-Software: Javascript, html, css, Bootstrap 3.3.7, VS Code 1.71.0  
+#### Software:
+- Javascript
+- HTML
+- CSS
+- Bootstrap 3.3.7
+- VS Code 1.71.0
+
 Data: [sample.json](samples.json)
 
 ## Results
